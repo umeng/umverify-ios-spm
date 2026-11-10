@@ -83,7 +83,7 @@ Objective-C：
 - `+ getVersion` / `+ getVerifyId`
 - `UMCustomModel` — 自定义授权页 UI
 
-SDK 详细使用请参考 [友盟 U-Verify 官方文档](https://developer.umeng.com/docs/66632/detail/66727)。
+SDK 详细使用请参考 [友盟 U-Verify 官方文档](https://devs.umeng.com/docs/143070/detail/2986091)。
 
 ## ⚠️ 集成必读
 
