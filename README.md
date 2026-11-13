@@ -121,6 +121,10 @@ umverify-ios-spm/
     └── ATAuthSDK.bundle/            # 一键登录授权页 UI 资源
 ```
 
+## Demo 示例
+
+纯 SwiftPM 集成的完整示例工程见 Demo 仓库 [iOS_SPM_dependency_sample](https://github.com/umeng/iOS_SPM_dependency_sample)，其中一键登录示例位于 [`UMVerifyDemo`](https://github.com/umeng/iOS_SPM_dependency_sample/tree/main/UMVerifyDemo) 目录，克隆后用 Xcode 打开即可编译运行。
+
 ## 许可
 
 UMVerify 为友盟版权所有；内含的 ATAuthSDK 为阿里云号码认证服务 SDK，
